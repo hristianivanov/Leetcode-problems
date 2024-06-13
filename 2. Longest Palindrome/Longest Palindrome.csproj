@@ -8,8 +8,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\2037. Minimum Number of Moves to Seat Everyone\2037. Minimum Number of Moves to Seat Everyone.csproj" />
-  </ItemGroup>
-
 </Project>

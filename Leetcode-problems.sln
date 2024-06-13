@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Two Sum", "1. Two Sum\1. Two Sum.csproj", "{50A2CA7B-2BE9-4476-BEB7-3D6CDC3BD112}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two Sum", "1. Two Sum\Two Sum.csproj", "{28377423-E3CC-4682-AED5-8D48C55D3ACB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "409. Longest Palindrome", "409. Longest Palindrome\409. Longest Palindrome.csproj", "{CE40DBB8-41EE-4205-BE71-D7B22A67B7CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Longest Palindrome", "2. Longest Palindrome\Longest Palindrome.csproj", "{AAF86671-4D04-4586-AF59-7109120CCD1A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2037. Minimum Number of Moves to Seat Everyone", "2037. Minimum Number of Moves to Seat Everyone\2037. Minimum Number of Moves to Seat Everyone.csproj", "{DD5AD526-1040-44D3-8E65-A17D88A213E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minimum Number of Moves to Seat Everyone", "3. Minimum Number of Moves to Seat Everyone\Minimum Number of Moves to Seat Everyone.csproj", "{0CA0F6B4-FD93-4203-BC96-20C54FF04A86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,18 +15,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{50A2CA7B-2BE9-4476-BEB7-3D6CDC3BD112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{50A2CA7B-2BE9-4476-BEB7-3D6CDC3BD112}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{50A2CA7B-2BE9-4476-BEB7-3D6CDC3BD112}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{50A2CA7B-2BE9-4476-BEB7-3D6CDC3BD112}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CE40DBB8-41EE-4205-BE71-D7B22A67B7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CE40DBB8-41EE-4205-BE71-D7B22A67B7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CE40DBB8-41EE-4205-BE71-D7B22A67B7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CE40DBB8-41EE-4205-BE71-D7B22A67B7CE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DD5AD526-1040-44D3-8E65-A17D88A213E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DD5AD526-1040-44D3-8E65-A17D88A213E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DD5AD526-1040-44D3-8E65-A17D88A213E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DD5AD526-1040-44D3-8E65-A17D88A213E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28377423-E3CC-4682-AED5-8D48C55D3ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28377423-E3CC-4682-AED5-8D48C55D3ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28377423-E3CC-4682-AED5-8D48C55D3ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28377423-E3CC-4682-AED5-8D48C55D3ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF86671-4D04-4586-AF59-7109120CCD1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF86671-4D04-4586-AF59-7109120CCD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF86671-4D04-4586-AF59-7109120CCD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF86671-4D04-4586-AF59-7109120CCD1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CA0F6B4-FD93-4203-BC96-20C54FF04A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA0F6B4-FD93-4203-BC96-20C54FF04A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA0F6B4-FD93-4203-BC96-20C54FF04A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA0F6B4-FD93-4203-BC96-20C54FF04A86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
