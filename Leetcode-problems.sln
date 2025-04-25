@@ -9,6 +9,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Longest Palindrome", "2. Lo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minimum Number of Moves to Seat Everyone", "3. Minimum Number of Moves to Seat Everyone\Minimum Number of Moves to Seat Everyone.csproj", "{0CA0F6B4-FD93-4203-BC96-20C54FF04A86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count of Interesting Subarrays", "Count of Interesting Subarrays\Count of Interesting Subarrays.csproj", "{4077C66B-73FB-4C7B-8D22-C9CED587A1E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.Testing solutions", "00.Testing solutions\00.Testing solutions.csproj", "{9EF80D07-C10B-49A3-ABFD-C58397CB6B77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Substring Without Repeating Characters", "Longest Substring Without Repeating Characters\Longest Substring Without Repeating Characters.csproj", "{5ED7E4D1-1A98-4664-A706-EDBD7D256EC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +33,18 @@ Global
 		{0CA0F6B4-FD93-4203-BC96-20C54FF04A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CA0F6B4-FD93-4203-BC96-20C54FF04A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CA0F6B4-FD93-4203-BC96-20C54FF04A86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4077C66B-73FB-4C7B-8D22-C9CED587A1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4077C66B-73FB-4C7B-8D22-C9CED587A1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4077C66B-73FB-4C7B-8D22-C9CED587A1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4077C66B-73FB-4C7B-8D22-C9CED587A1E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EF80D07-C10B-49A3-ABFD-C58397CB6B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF80D07-C10B-49A3-ABFD-C58397CB6B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF80D07-C10B-49A3-ABFD-C58397CB6B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF80D07-C10B-49A3-ABFD-C58397CB6B77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED7E4D1-1A98-4664-A706-EDBD7D256EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED7E4D1-1A98-4664-A706-EDBD7D256EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED7E4D1-1A98-4664-A706-EDBD7D256EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED7E4D1-1A98-4664-A706-EDBD7D256EC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
